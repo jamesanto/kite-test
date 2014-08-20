@@ -32,9 +32,9 @@
 	</licenses>
 	
 	<scm>
-		<connection>scm:git:file:///tmp/mr/kite</connection>
-		<developerConnection>scm:git:file:///tmp/mr/kite</developerConnection>
-		<url>file:///tmp/mr/kite</url>
+		<connection>scm:git:https://github.com/jamesanto/kite-test</connection>
+		<developerConnection>scm:git:https://jamesanto:680e18d20bfe9a1f37df28a21f0eb1f982e29655@github.com/jamesanto/kite-test</developerConnection>
+		<url>https://github.com/jamesanto/kite</url>
 	</scm>
 
 	<distributionManagement>
